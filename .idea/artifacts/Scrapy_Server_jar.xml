@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Scrapy_Server:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Scrapy_Server_jar</output-path>
+    <root id="archive" name="Scrapy_Server.jar">
+      <element id="module-output" name="Scrapy_Server" />
+      <element id="extracted-dir" path="$USER_HOME$/javaPackage/mysql-connector-java-8.0.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-test.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/javaPackage/gson-2.8.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
