@@ -26,7 +26,7 @@ class Server {
     {
         private val databaseUrl = "jdbc:mysql://localhost:3306/spider"
         private val username = "scrapy"
-        private val password = "hao5jx"
+        private val password = "mimabaohuyixia"
         private val socket = socket
         private var conn = DriverManager.getConnection(databaseUrl,username,password)
         private var sql: String?= null
